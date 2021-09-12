@@ -16,8 +16,8 @@ function HeaderCompound({ children }) {
           <SigninButton>Sign In</SigninButton>
         </Navbar>
         <FeatureWrapper>
-          <FeatureTitle>Header - mensagems, xxx shows and xxxx.</FeatureTitle>
-          <Warning>Aplicação não oficial</Warning>
+          <FeatureTitle>/compounds/HeaderCompound - msg, xxx xxxx.</FeatureTitle>
+          <Warning>Not Oficial Application </Warning>
         </FeatureWrapper>
         {children}
       </HeaderWrapper>

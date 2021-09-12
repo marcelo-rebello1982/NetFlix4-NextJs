@@ -8,7 +8,7 @@ import FooterLink from "../components/Footer/FooterLink";
 function FooterCompound() {
   return (
     <FooterWrapper>
-      <FooterTitle>Questions? Contact us.</FooterTitle>
+      <FooterTitle>/compounds/FooterCompounds ## mensagem : xxxxx ?  xxxxx </FooterTitle>
       <FooterRow>
         <FooterColumn>
           <FooterLink>FAQ</FooterLink>
