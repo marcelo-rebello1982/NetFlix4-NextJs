@@ -48,7 +48,7 @@ function SigninPage() {
         </Navbar>
         <SignFormWrapper>
           <SignFormBase onSubmit={handleSubmit} method="POST">
-            <Warning>Aplicação não oficial</Warning>
+            <Warning>Aplicação não oficial </Warning>
             <SignFormTitle>Entrar</SignFormTitle>
             {error ? <SignFormError>{error}</SignFormError> : null}
             <SignFormInput

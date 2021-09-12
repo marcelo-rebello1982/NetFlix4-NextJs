@@ -56,7 +56,7 @@ function SignupPage() {
         </Navbar>
         <SignFormWrapper>
           <SignFormBase onSubmit={handleSubmit} method="POST">
-            <Warning>SingUP - ver msg</Warning>
+            <Warning>SingUP - acertar msg</Warning>
             <SignFormTitle>Sign Up</SignFormTitle>
             {error ? <SignFormError>{error}</SignFormError> : null}
             <SignFormInput
